@@ -1,0 +1,29 @@
+{
+  "workbench.sideBar.location": "right",
+  "editor.lineNumbers": "relative",
+  "window.zoomLevel": 1,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {
+    "editor.background": "#090c08",
+    "editor.foreground": "#f2f3f1",
+    "activityBar.background": "#090c08",
+    "sideBar.background": "#090c08"
+  },
+  "vscord.app.name": "Visual Studio Code",
+  "vscord.app.privacyMode.enable": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.menuBarVisibility": "toggle",
+  "window.commandCenter": false,
+  "window.title": "${activeEditorShort}",
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "code-runner.runInTerminal": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none"
+}
