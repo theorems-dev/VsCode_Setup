@@ -14,7 +14,7 @@
     "sideBar.background": "#090c08"
   },
   "vscord.app.name": "Visual Studio Code",
-  "vscord.app.privacyMode.enable": true,
+  "vscord.app.privacyMode.enable": false,
   "workbench.iconTheme": "material-icon-theme",
   "window.menuBarVisibility": "toggle",
   "window.commandCenter": false,
